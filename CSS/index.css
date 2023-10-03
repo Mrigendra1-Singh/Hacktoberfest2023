@@ -192,10 +192,12 @@ li{
     background-color: transparent;
     cursor: pointer;
     transition: 0.2s;
+    
 }
 
 .explore-btn:hover {
     width: 320px;
+    
 }
 
 
@@ -333,9 +335,9 @@ li{
 }
 
 .explore-btn:hover {
-    background-color: #0056b3;
+    background-color: antiquewhite;
     /* Warna latar belakang saat dihover */
-    color: #fff;
+    color: #007BFF;
     /* Warna teks saat dihover (bisa disamakan dengan warna saat normal) */
 }
 
